@@ -1,0 +1,1081 @@
+Date,Product,Country,Sales
+2025-05-10,Graphic Cards,USA,155
+2025-05-10,Motherboards,USA,92
+2025-05-10,Processors,USA,91
+2025-05-10,Memory Chips,India,120
+2025-05-10,Power Supply,USA,56
+2025-05-10,Cooling Fans,USA,58
+2025-05-11,Graphic Cards,USA,95
+2025-05-11,Motherboards,USA,118
+2025-05-11,Processors,India,62
+2025-05-11,Memory Chips,USA,50
+2025-05-11,Power Supply,USA,54
+2025-05-11,Cooling Fans,USA,103
+2025-05-12,Graphic Cards,USA,204
+2025-05-12,Motherboards,USA,59
+2025-05-12,Processors,USA,55
+2025-05-12,Memory Chips,USA,117
+2025-05-12,Power Supply,India,39
+2025-05-12,Cooling Fans,USA,73
+2025-05-13,Graphic Cards,USA,190
+2025-05-13,Motherboards,India,95
+2025-05-13,Processors,USA,191
+2025-05-13,Memory Chips,USA,127
+2025-05-13,Power Supply,Germany,88
+2025-05-13,Cooling Fans,Germany,115
+2025-05-14,Graphic Cards,USA,159
+2025-05-14,Motherboards,USA,16
+2025-05-14,Processors,India,26
+2025-05-14,Memory Chips,USA,44
+2025-05-14,Power Supply,USA,103
+2025-05-14,Cooling Fans,India,115
+2025-05-15,Graphic Cards,India,191
+2025-05-15,Motherboards,USA,55
+2025-05-15,Processors,India,19
+2025-05-15,Memory Chips,USA,123
+2025-05-15,Power Supply,USA,127
+2025-05-15,Cooling Fans,India,44
+2025-05-16,Graphic Cards,India,158
+2025-05-16,Motherboards,India,76
+2025-05-16,Processors,India,139
+2025-05-16,Memory Chips,USA,93
+2025-05-16,Power Supply,USA,64
+2025-05-16,Cooling Fans,USA,77
+2025-05-17,Graphic Cards,USA,143
+2025-05-17,Motherboards,USA,121
+2025-05-17,Processors,Germany,58
+2025-05-17,Memory Chips,India,20
+2025-05-17,Power Supply,USA,71
+2025-05-17,Cooling Fans,USA,62
+2025-05-18,Graphic Cards,Germany,220
+2025-05-18,Motherboards,India,126
+2025-05-18,Processors,India,134
+2025-05-18,Memory Chips,India,87
+2025-05-18,Power Supply,USA,69
+2025-05-18,Cooling Fans,USA,65
+2025-05-19,Graphic Cards,India,93
+2025-05-19,Motherboards,USA,93
+2025-05-19,Processors,USA,98
+2025-05-19,Memory Chips,USA,73
+2025-05-19,Power Supply,USA,42
+2025-05-19,Cooling Fans,Germany,136
+2025-05-20,Graphic Cards,Germany,199
+2025-05-20,Motherboards,USA,13
+2025-05-20,Processors,USA,84
+2025-05-20,Memory Chips,USA,62
+2025-05-20,Power Supply,USA,99
+2025-05-20,Cooling Fans,USA,69
+2025-05-21,Graphic Cards,USA,213
+2025-05-21,Motherboards,USA,79
+2025-05-21,Processors,India,48
+2025-05-21,Memory Chips,India,110
+2025-05-21,Power Supply,USA,136
+2025-05-21,Cooling Fans,USA,135
+2025-05-22,Graphic Cards,USA,180
+2025-05-22,Motherboards,USA,116
+2025-05-22,Processors,USA,148
+2025-05-22,Memory Chips,USA,114
+2025-05-22,Power Supply,USA,105
+2025-05-22,Cooling Fans,USA,31
+2025-05-23,Graphic Cards,India,224
+2025-05-23,Motherboards,USA,73
+2025-05-23,Processors,USA,65
+2025-05-23,Memory Chips,India,102
+2025-05-23,Power Supply,India,134
+2025-05-23,Cooling Fans,USA,181
+2025-05-24,Graphic Cards,USA,142
+2025-05-24,Motherboards,USA,127
+2025-05-24,Processors,India,104
+2025-05-24,Memory Chips,USA,128
+2025-05-24,Power Supply,USA,89
+2025-05-24,Cooling Fans,USA,113
+2025-05-25,Graphic Cards,USA,206
+2025-05-25,Motherboards,India,31
+2025-05-25,Processors,India,109
+2025-05-25,Memory Chips,USA,41
+2025-05-25,Power Supply,USA,110
+2025-05-25,Cooling Fans,India,130
+2025-05-26,Graphic Cards,India,165
+2025-05-26,Motherboards,USA,85
+2025-05-26,Processors,USA,115
+2025-05-26,Memory Chips,India,70
+2025-05-26,Power Supply,India,189
+2025-05-26,Cooling Fans,USA,83
+2025-05-27,Graphic Cards,USA,161
+2025-05-27,Motherboards,USA,119
+2025-05-27,Processors,India,75
+2025-05-27,Memory Chips,Germany,109
+2025-05-27,Power Supply,Germany,61
+2025-05-27,Cooling Fans,USA,111
+2025-05-28,Graphic Cards,India,162
+2025-05-28,Motherboards,USA,59
+2025-05-28,Processors,Germany,105
+2025-05-28,Memory Chips,USA,150
+2025-05-28,Power Supply,India,122
+2025-05-28,Cooling Fans,India,82
+2025-05-29,Graphic Cards,India,161
+2025-05-29,Motherboards,USA,135
+2025-05-29,Processors,India,92
+2025-05-29,Memory Chips,Germany,90
+2025-05-29,Power Supply,USA,137
+2025-05-29,Cooling Fans,India,80
+2025-05-30,Graphic Cards,India,209
+2025-05-30,Motherboards,USA,87
+2025-05-30,Processors,USA,86
+2025-05-30,Memory Chips,USA,45
+2025-05-30,Power Supply,USA,8
+2025-05-30,Cooling Fans,USA,94
+2025-05-31,Graphic Cards,USA,164
+2025-05-31,Motherboards,USA,66
+2025-05-31,Processors,India,101
+2025-05-31,Memory Chips,USA,29
+2025-05-31,Power Supply,USA,175
+2025-05-31,Cooling Fans,India,153
+2025-06-01,Graphic Cards,India,200
+2025-06-01,Motherboards,USA,97
+2025-06-01,Processors,India,62
+2025-06-01,Memory Chips,USA,13
+2025-06-01,Power Supply,USA,49
+2025-06-01,Cooling Fans,USA,146
+2025-06-02,Graphic Cards,USA,212
+2025-06-02,Motherboards,India,15
+2025-06-02,Processors,India,95
+2025-06-02,Memory Chips,India,146
+2025-06-02,Power Supply,USA,50
+2025-06-02,Cooling Fans,India,28
+2025-06-03,Graphic Cards,USA,190
+2025-06-03,Motherboards,USA,154
+2025-06-03,Processors,USA,28
+2025-06-03,Memory Chips,USA,75
+2025-06-03,Power Supply,USA,141
+2025-06-03,Cooling Fans,USA,132
+2025-06-04,Graphic Cards,USA,202
+2025-06-04,Motherboards,India,173
+2025-06-04,Processors,India,71
+2025-06-04,Memory Chips,USA,82
+2025-06-04,Power Supply,Germany,4
+2025-06-04,Cooling Fans,India,131
+2025-06-05,Graphic Cards,USA,227
+2025-06-05,Motherboards,USA,82
+2025-06-05,Processors,Germany,60
+2025-06-05,Memory Chips,USA,88
+2025-06-05,Power Supply,India,55
+2025-06-05,Cooling Fans,India,65
+2025-06-06,Graphic Cards,India,214
+2025-06-06,Motherboards,India,103
+2025-06-06,Processors,USA,102
+2025-06-06,Memory Chips,India,51
+2025-06-06,Power Supply,Germany,8
+2025-06-06,Cooling Fans,India,31
+2025-06-07,Graphic Cards,USA,262
+2025-06-07,Motherboards,India,62
+2025-06-07,Processors,USA,80
+2025-06-07,Memory Chips,India,117
+2025-06-07,Power Supply,USA,70
+2025-06-07,Cooling Fans,USA,114
+2025-06-08,Graphic Cards,Germany,189
+2025-06-08,Motherboards,Germany,55
+2025-06-08,Processors,Germany,156
+2025-06-08,Memory Chips,USA,122
+2025-06-08,Power Supply,USA,128
+2025-06-08,Cooling Fans,India,32
+2025-06-09,Graphic Cards,India,172
+2025-06-09,Motherboards,USA,79
+2025-06-09,Processors,USA,67
+2025-06-09,Memory Chips,USA,112
+2025-06-09,Power Supply,USA,104
+2025-06-09,Cooling Fans,USA,134
+2025-06-10,Graphic Cards,USA,182
+2025-06-10,Motherboards,India,88
+2025-06-10,Processors,India,126
+2025-06-10,Memory Chips,Germany,60
+2025-06-10,Power Supply,Germany,53
+2025-06-10,Cooling Fans,USA,134
+2025-06-11,Graphic Cards,India,118
+2025-06-11,Motherboards,Germany,142
+2025-06-11,Processors,USA,67
+2025-06-11,Memory Chips,USA,79
+2025-06-11,Power Supply,USA,130
+2025-06-11,Cooling Fans,USA,110
+2025-06-12,Graphic Cards,Germany,142
+2025-06-12,Motherboards,India,46
+2025-06-12,Processors,USA,82
+2025-06-12,Memory Chips,Germany,119
+2025-06-12,Power Supply,USA,98
+2025-06-12,Cooling Fans,USA,82
+2025-06-13,Graphic Cards,India,182
+2025-06-13,Motherboards,India,154
+2025-06-13,Processors,USA,75
+2025-06-13,Memory Chips,India,119
+2025-06-13,Power Supply,USA,73
+2025-06-13,Cooling Fans,USA,25
+2025-06-14,Graphic Cards,USA,123
+2025-06-14,Motherboards,India,94
+2025-06-14,Processors,India,109
+2025-06-14,Memory Chips,USA,139
+2025-06-14,Power Supply,Germany,77
+2025-06-14,Cooling Fans,India,68
+2025-06-15,Graphic Cards,Germany,211
+2025-06-15,Motherboards,USA,36
+2025-06-15,Processors,Germany,91
+2025-06-15,Memory Chips,USA,91
+2025-06-15,Power Supply,USA,75
+2025-06-15,Cooling Fans,India,77
+2025-06-16,Graphic Cards,India,260
+2025-06-16,Motherboards,Germany,92
+2025-06-16,Processors,India,67
+2025-06-16,Memory Chips,USA,16
+2025-06-16,Power Supply,Germany,25
+2025-06-16,Cooling Fans,India,101
+2025-06-17,Graphic Cards,India,166
+2025-06-17,Motherboards,India,67
+2025-06-17,Processors,USA,84
+2025-06-17,Memory Chips,India,142
+2025-06-17,Power Supply,USA,121
+2025-06-17,Cooling Fans,USA,86
+2025-06-18,Graphic Cards,USA,259
+2025-06-18,Motherboards,USA,115
+2025-06-18,Processors,USA,10
+2025-06-18,Memory Chips,USA,137
+2025-06-18,Power Supply,Germany,88
+2025-06-18,Cooling Fans,India,0
+2025-06-19,Graphic Cards,USA,239
+2025-06-19,Motherboards,Germany,93
+2025-06-19,Processors,USA,79
+2025-06-19,Memory Chips,USA,111
+2025-06-19,Power Supply,USA,79
+2025-06-19,Cooling Fans,USA,96
+2025-06-20,Graphic Cards,India,195
+2025-06-20,Motherboards,USA,76
+2025-06-20,Processors,USA,35
+2025-06-20,Memory Chips,USA,99
+2025-06-20,Power Supply,India,162
+2025-06-20,Cooling Fans,USA,67
+2025-06-21,Graphic Cards,USA,167
+2025-06-21,Motherboards,USA,57
+2025-06-21,Processors,USA,22
+2025-06-21,Memory Chips,USA,72
+2025-06-21,Power Supply,USA,75
+2025-06-21,Cooling Fans,India,81
+2025-06-22,Graphic Cards,India,234
+2025-06-22,Motherboards,India,55
+2025-06-22,Processors,USA,58
+2025-06-22,Memory Chips,USA,30
+2025-06-22,Power Supply,India,54
+2025-06-22,Cooling Fans,India,0
+2025-06-23,Graphic Cards,USA,234
+2025-06-23,Motherboards,India,40
+2025-06-23,Processors,USA,41
+2025-06-23,Memory Chips,USA,83
+2025-06-23,Power Supply,USA,47
+2025-06-23,Cooling Fans,USA,43
+2025-06-24,Graphic Cards,USA,157
+2025-06-24,Motherboards,USA,53
+2025-06-24,Processors,USA,88
+2025-06-24,Memory Chips,India,116
+2025-06-24,Power Supply,India,45
+2025-06-24,Cooling Fans,USA,79
+2025-06-25,Graphic Cards,USA,182
+2025-06-25,Motherboards,USA,143
+2025-06-25,Processors,USA,135
+2025-06-25,Memory Chips,USA,27
+2025-06-25,Power Supply,USA,81
+2025-06-25,Cooling Fans,USA,85
+2025-06-26,Graphic Cards,USA,181
+2025-06-26,Motherboards,USA,54
+2025-06-26,Processors,USA,46
+2025-06-26,Memory Chips,India,58
+2025-06-26,Power Supply,USA,0
+2025-06-26,Cooling Fans,Germany,107
+2025-06-27,Graphic Cards,USA,215
+2025-06-27,Motherboards,India,76
+2025-06-27,Processors,India,51
+2025-06-27,Memory Chips,India,58
+2025-06-27,Power Supply,Germany,161
+2025-06-27,Cooling Fans,USA,144
+2025-06-28,Graphic Cards,India,177
+2025-06-28,Motherboards,USA,39
+2025-06-28,Processors,USA,61
+2025-06-28,Memory Chips,India,67
+2025-06-28,Power Supply,USA,34
+2025-06-28,Cooling Fans,USA,90
+2025-06-29,Graphic Cards,USA,194
+2025-06-29,Motherboards,USA,63
+2025-06-29,Processors,USA,55
+2025-06-29,Memory Chips,India,110
+2025-06-29,Power Supply,India,51
+2025-06-29,Cooling Fans,USA,177
+2025-06-30,Graphic Cards,USA,206
+2025-06-30,Motherboards,USA,83
+2025-06-30,Processors,USA,99
+2025-06-30,Memory Chips,India,143
+2025-06-30,Power Supply,USA,56
+2025-06-30,Cooling Fans,USA,103
+2025-07-01,Graphic Cards,USA,221
+2025-07-01,Motherboards,USA,121
+2025-07-01,Processors,USA,69
+2025-07-01,Memory Chips,India,117
+2025-07-01,Power Supply,USA,52
+2025-07-01,Cooling Fans,USA,0
+2025-07-02,Graphic Cards,India,136
+2025-07-02,Motherboards,India,80
+2025-07-02,Processors,USA,115
+2025-07-02,Memory Chips,India,83
+2025-07-02,Power Supply,USA,86
+2025-07-02,Cooling Fans,USA,102
+2025-07-03,Graphic Cards,USA,220
+2025-07-03,Motherboards,USA,129
+2025-07-03,Processors,India,60
+2025-07-03,Memory Chips,USA,96
+2025-07-03,Power Supply,USA,140
+2025-07-03,Cooling Fans,India,96
+2025-07-04,Graphic Cards,USA,251
+2025-07-04,Motherboards,USA,62
+2025-07-04,Processors,USA,118
+2025-07-04,Memory Chips,India,118
+2025-07-04,Power Supply,India,14
+2025-07-04,Cooling Fans,USA,91
+2025-07-05,Graphic Cards,USA,206
+2025-07-05,Motherboards,USA,113
+2025-07-05,Processors,USA,87
+2025-07-05,Memory Chips,India,185
+2025-07-05,Power Supply,USA,151
+2025-07-05,Cooling Fans,Germany,103
+2025-07-06,Graphic Cards,India,210
+2025-07-06,Motherboards,India,34
+2025-07-06,Processors,USA,87
+2025-07-06,Memory Chips,Germany,84
+2025-07-06,Power Supply,USA,181
+2025-07-06,Cooling Fans,USA,100
+2025-07-07,Graphic Cards,USA,242
+2025-07-07,Motherboards,USA,56
+2025-07-07,Processors,USA,114
+2025-07-07,Memory Chips,Germany,0
+2025-07-07,Power Supply,USA,130
+2025-07-07,Cooling Fans,USA,47
+2025-07-08,Graphic Cards,USA,154
+2025-07-08,Motherboards,USA,74
+2025-07-08,Processors,USA,112
+2025-07-08,Memory Chips,USA,73
+2025-07-08,Power Supply,USA,39
+2025-07-08,Cooling Fans,Germany,100
+2025-07-09,Graphic Cards,USA,168
+2025-07-09,Motherboards,Germany,73
+2025-07-09,Processors,USA,52
+2025-07-09,Memory Chips,India,85
+2025-07-09,Power Supply,USA,75
+2025-07-09,Cooling Fans,USA,86
+2025-07-10,Graphic Cards,USA,302
+2025-07-10,Motherboards,USA,35
+2025-07-10,Processors,India,135
+2025-07-10,Memory Chips,USA,0
+2025-07-10,Power Supply,USA,32
+2025-07-10,Cooling Fans,USA,88
+2025-07-11,Graphic Cards,India,194
+2025-07-11,Motherboards,USA,101
+2025-07-11,Processors,India,65
+2025-07-11,Memory Chips,USA,77
+2025-07-11,Power Supply,India,76
+2025-07-11,Cooling Fans,USA,81
+2025-07-12,Graphic Cards,USA,203
+2025-07-12,Motherboards,USA,74
+2025-07-12,Processors,India,65
+2025-07-12,Memory Chips,USA,70
+2025-07-12,Power Supply,India,89
+2025-07-12,Cooling Fans,USA,90
+2025-07-13,Graphic Cards,India,173
+2025-07-13,Motherboards,India,42
+2025-07-13,Processors,USA,13
+2025-07-13,Memory Chips,India,150
+2025-07-13,Power Supply,India,30
+2025-07-13,Cooling Fans,USA,47
+2025-07-14,Graphic Cards,USA,230
+2025-07-14,Motherboards,USA,23
+2025-07-14,Processors,USA,9
+2025-07-14,Memory Chips,Germany,58
+2025-07-14,Power Supply,India,118
+2025-07-14,Cooling Fans,India,78
+2025-07-15,Graphic Cards,USA,286
+2025-07-15,Motherboards,USA,106
+2025-07-15,Processors,USA,28
+2025-07-15,Memory Chips,USA,84
+2025-07-15,Power Supply,USA,14
+2025-07-15,Cooling Fans,USA,102
+2025-07-16,Graphic Cards,India,181
+2025-07-16,Motherboards,USA,101
+2025-07-16,Processors,USA,144
+2025-07-16,Memory Chips,India,142
+2025-07-16,Power Supply,USA,73
+2025-07-16,Cooling Fans,USA,112
+2025-07-17,Graphic Cards,USA,186
+2025-07-17,Motherboards,India,87
+2025-07-17,Processors,USA,19
+2025-07-17,Memory Chips,USA,48
+2025-07-17,Power Supply,India,102
+2025-07-17,Cooling Fans,USA,9
+2025-07-18,Graphic Cards,India,203
+2025-07-18,Motherboards,USA,87
+2025-07-18,Processors,USA,104
+2025-07-18,Memory Chips,USA,19
+2025-07-18,Power Supply,USA,12
+2025-07-18,Cooling Fans,India,119
+2025-07-19,Graphic Cards,USA,207
+2025-07-19,Motherboards,USA,66
+2025-07-19,Processors,India,17
+2025-07-19,Memory Chips,India,63
+2025-07-19,Power Supply,India,36
+2025-07-19,Cooling Fans,USA,117
+2025-07-20,Graphic Cards,USA,147
+2025-07-20,Motherboards,USA,70
+2025-07-20,Processors,India,112
+2025-07-20,Memory Chips,India,104
+2025-07-20,Power Supply,India,61
+2025-07-20,Cooling Fans,USA,105
+2025-07-21,Graphic Cards,USA,232
+2025-07-21,Motherboards,USA,85
+2025-07-21,Processors,India,97
+2025-07-21,Memory Chips,Germany,71
+2025-07-21,Power Supply,Germany,125
+2025-07-21,Cooling Fans,India,76
+2025-07-22,Graphic Cards,USA,143
+2025-07-22,Motherboards,USA,100
+2025-07-22,Processors,USA,38
+2025-07-22,Memory Chips,India,131
+2025-07-22,Power Supply,USA,96
+2025-07-22,Cooling Fans,India,2
+2025-07-23,Graphic Cards,USA,234
+2025-07-23,Motherboards,India,91
+2025-07-23,Processors,USA,108
+2025-07-23,Memory Chips,India,81
+2025-07-23,Power Supply,Germany,128
+2025-07-23,Cooling Fans,USA,52
+2025-07-24,Graphic Cards,USA,236
+2025-07-24,Motherboards,Germany,92
+2025-07-24,Processors,India,12
+2025-07-24,Memory Chips,India,9
+2025-07-24,Power Supply,USA,67
+2025-07-24,Cooling Fans,USA,47
+2025-07-25,Graphic Cards,USA,122
+2025-07-25,Motherboards,India,31
+2025-07-25,Processors,USA,73
+2025-07-25,Memory Chips,India,46
+2025-07-25,Power Supply,Germany,172
+2025-07-25,Cooling Fans,USA,53
+2025-07-26,Graphic Cards,Germany,246
+2025-07-26,Motherboards,USA,144
+2025-07-26,Processors,USA,59
+2025-07-26,Memory Chips,USA,56
+2025-07-26,Power Supply,India,60
+2025-07-26,Cooling Fans,Germany,73
+2025-07-27,Graphic Cards,India,185
+2025-07-27,Motherboards,India,33
+2025-07-27,Processors,India,93
+2025-07-27,Memory Chips,USA,64
+2025-07-27,Power Supply,USA,174
+2025-07-27,Cooling Fans,USA,117
+2025-07-28,Graphic Cards,USA,185
+2025-07-28,Motherboards,USA,103
+2025-07-28,Processors,India,101
+2025-07-28,Memory Chips,USA,123
+2025-07-28,Power Supply,USA,10
+2025-07-28,Cooling Fans,USA,29
+2025-07-29,Graphic Cards,India,166
+2025-07-29,Motherboards,USA,79
+2025-07-29,Processors,India,0
+2025-07-29,Memory Chips,USA,45
+2025-07-29,Power Supply,India,132
+2025-07-29,Cooling Fans,USA,34
+2025-07-30,Graphic Cards,USA,209
+2025-07-30,Motherboards,India,92
+2025-07-30,Processors,India,96
+2025-07-30,Memory Chips,India,108
+2025-07-30,Power Supply,India,120
+2025-07-30,Cooling Fans,India,141
+2025-07-31,Graphic Cards,USA,185
+2025-07-31,Motherboards,India,46
+2025-07-31,Processors,USA,96
+2025-07-31,Memory Chips,USA,96
+2025-07-31,Power Supply,USA,112
+2025-07-31,Cooling Fans,Germany,20
+2025-08-01,Graphic Cards,India,230
+2025-08-01,Motherboards,USA,25
+2025-08-01,Processors,India,90
+2025-08-01,Memory Chips,USA,63
+2025-08-01,Power Supply,Germany,128
+2025-08-01,Cooling Fans,Germany,22
+2025-08-02,Graphic Cards,USA,207
+2025-08-02,Motherboards,USA,96
+2025-08-02,Processors,USA,65
+2025-08-02,Memory Chips,USA,86
+2025-08-02,Power Supply,USA,60
+2025-08-02,Cooling Fans,India,85
+2025-08-03,Graphic Cards,Germany,214
+2025-08-03,Motherboards,USA,58
+2025-08-03,Processors,USA,74
+2025-08-03,Memory Chips,India,0
+2025-08-03,Power Supply,India,11
+2025-08-03,Cooling Fans,Germany,63
+2025-08-04,Graphic Cards,USA,150
+2025-08-04,Motherboards,India,72
+2025-08-04,Processors,India,124
+2025-08-04,Memory Chips,USA,132
+2025-08-04,Power Supply,Germany,71
+2025-08-04,Cooling Fans,Germany,34
+2025-08-05,Graphic Cards,USA,150
+2025-08-05,Motherboards,USA,146
+2025-08-05,Processors,Germany,115
+2025-08-05,Memory Chips,USA,71
+2025-08-05,Power Supply,USA,82
+2025-08-05,Cooling Fans,USA,70
+2025-08-06,Graphic Cards,India,220
+2025-08-06,Motherboards,USA,78
+2025-08-06,Processors,India,108
+2025-08-06,Memory Chips,India,108
+2025-08-06,Power Supply,India,42
+2025-08-06,Cooling Fans,USA,92
+2025-08-07,Graphic Cards,Germany,249
+2025-08-07,Motherboards,USA,99
+2025-08-07,Processors,USA,94
+2025-08-07,Memory Chips,USA,49
+2025-08-07,Power Supply,USA,50
+2025-08-07,Cooling Fans,USA,79
+2025-08-08,Graphic Cards,USA,174
+2025-08-08,Motherboards,USA,119
+2025-08-08,Processors,USA,73
+2025-08-08,Memory Chips,USA,52
+2025-08-08,Power Supply,India,120
+2025-08-08,Cooling Fans,India,36
+2025-08-09,Graphic Cards,India,199
+2025-08-09,Motherboards,USA,57
+2025-08-09,Processors,USA,176
+2025-08-09,Memory Chips,India,79
+2025-08-09,Power Supply,USA,44
+2025-08-09,Cooling Fans,USA,81
+2025-08-10,Graphic Cards,USA,192
+2025-08-10,Motherboards,USA,50
+2025-08-10,Processors,USA,119
+2025-08-10,Memory Chips,USA,104
+2025-08-10,Power Supply,USA,91
+2025-08-10,Cooling Fans,India,48
+2025-08-11,Graphic Cards,USA,272
+2025-08-11,Motherboards,India,94
+2025-08-11,Processors,India,56
+2025-08-11,Memory Chips,India,123
+2025-08-11,Power Supply,USA,84
+2025-08-11,Cooling Fans,India,118
+2025-08-12,Graphic Cards,USA,216
+2025-08-12,Motherboards,India,167
+2025-08-12,Processors,USA,38
+2025-08-12,Memory Chips,India,58
+2025-08-12,Power Supply,India,198
+2025-08-12,Cooling Fans,India,76
+2025-08-13,Graphic Cards,USA,154
+2025-08-13,Motherboards,India,102
+2025-08-13,Processors,USA,123
+2025-08-13,Memory Chips,India,75
+2025-08-13,Power Supply,India,5
+2025-08-13,Cooling Fans,USA,43
+2025-08-14,Graphic Cards,Germany,137
+2025-08-14,Motherboards,India,160
+2025-08-14,Processors,USA,14
+2025-08-14,Memory Chips,USA,57
+2025-08-14,Power Supply,Germany,101
+2025-08-14,Cooling Fans,India,29
+2025-08-15,Graphic Cards,India,216
+2025-08-15,Motherboards,Germany,52
+2025-08-15,Processors,USA,92
+2025-08-15,Memory Chips,USA,68
+2025-08-15,Power Supply,USA,73
+2025-08-15,Cooling Fans,USA,122
+2025-08-16,Graphic Cards,USA,153
+2025-08-16,Motherboards,USA,92
+2025-08-16,Processors,Germany,112
+2025-08-16,Memory Chips,USA,30
+2025-08-16,Power Supply,India,17
+2025-08-16,Cooling Fans,USA,69
+2025-08-17,Graphic Cards,USA,116
+2025-08-17,Motherboards,India,90
+2025-08-17,Processors,USA,105
+2025-08-17,Memory Chips,India,24
+2025-08-17,Power Supply,USA,113
+2025-08-17,Cooling Fans,USA,128
+2025-08-18,Graphic Cards,India,214
+2025-08-18,Motherboards,India,131
+2025-08-18,Processors,USA,66
+2025-08-18,Memory Chips,USA,57
+2025-08-18,Power Supply,USA,74
+2025-08-18,Cooling Fans,Germany,38
+2025-08-19,Graphic Cards,USA,176
+2025-08-19,Motherboards,USA,80
+2025-08-19,Processors,Germany,85
+2025-08-19,Memory Chips,India,98
+2025-08-19,Power Supply,USA,0
+2025-08-19,Cooling Fans,India,197
+2025-08-20,Graphic Cards,USA,162
+2025-08-20,Motherboards,India,105
+2025-08-20,Processors,Germany,91
+2025-08-20,Memory Chips,USA,53
+2025-08-20,Power Supply,India,101
+2025-08-20,Cooling Fans,India,43
+2025-08-21,Graphic Cards,Germany,198
+2025-08-21,Motherboards,India,160
+2025-08-21,Processors,India,62
+2025-08-21,Memory Chips,Germany,82
+2025-08-21,Power Supply,India,36
+2025-08-21,Cooling Fans,India,106
+2025-08-22,Graphic Cards,USA,169
+2025-08-22,Motherboards,India,91
+2025-08-22,Processors,Germany,120
+2025-08-22,Memory Chips,India,69
+2025-08-22,Power Supply,USA,102
+2025-08-22,Cooling Fans,USA,94
+2025-08-23,Graphic Cards,USA,241
+2025-08-23,Motherboards,India,102
+2025-08-23,Processors,India,131
+2025-08-23,Memory Chips,USA,69
+2025-08-23,Power Supply,USA,28
+2025-08-23,Cooling Fans,India,14
+2025-08-24,Graphic Cards,USA,137
+2025-08-24,Motherboards,USA,67
+2025-08-24,Processors,USA,86
+2025-08-24,Memory Chips,India,51
+2025-08-24,Power Supply,India,0
+2025-08-24,Cooling Fans,India,52
+2025-08-25,Graphic Cards,USA,181
+2025-08-25,Motherboards,USA,79
+2025-08-25,Processors,USA,137
+2025-08-25,Memory Chips,USA,7
+2025-08-25,Power Supply,India,107
+2025-08-25,Cooling Fans,India,103
+2025-08-26,Graphic Cards,Germany,189
+2025-08-26,Motherboards,Germany,95
+2025-08-26,Processors,USA,72
+2025-08-26,Memory Chips,USA,102
+2025-08-26,Power Supply,USA,45
+2025-08-26,Cooling Fans,USA,40
+2025-08-27,Graphic Cards,India,123
+2025-08-27,Motherboards,India,95
+2025-08-27,Processors,India,55
+2025-08-27,Memory Chips,USA,16
+2025-08-27,Power Supply,USA,41
+2025-08-27,Cooling Fans,USA,102
+2025-08-28,Graphic Cards,India,206
+2025-08-28,Motherboards,USA,42
+2025-08-28,Processors,Germany,135
+2025-08-28,Memory Chips,USA,76
+2025-08-28,Power Supply,USA,98
+2025-08-28,Cooling Fans,India,85
+2025-08-29,Graphic Cards,India,188
+2025-08-29,Motherboards,USA,96
+2025-08-29,Processors,India,125
+2025-08-29,Memory Chips,Germany,67
+2025-08-29,Power Supply,USA,109
+2025-08-29,Cooling Fans,USA,51
+2025-08-30,Graphic Cards,India,272
+2025-08-30,Motherboards,USA,46
+2025-08-30,Processors,India,168
+2025-08-30,Memory Chips,USA,30
+2025-08-30,Power Supply,India,65
+2025-08-30,Cooling Fans,USA,98
+2025-08-31,Graphic Cards,USA,248
+2025-08-31,Motherboards,USA,144
+2025-08-31,Processors,USA,138
+2025-08-31,Memory Chips,USA,12
+2025-08-31,Power Supply,Germany,96
+2025-08-31,Cooling Fans,USA,49
+2025-09-01,Graphic Cards,USA,239
+2025-09-01,Motherboards,Germany,124
+2025-09-01,Processors,USA,92
+2025-09-01,Memory Chips,USA,58
+2025-09-01,Power Supply,USA,35
+2025-09-01,Cooling Fans,USA,51
+2025-09-02,Graphic Cards,USA,169
+2025-09-02,Motherboards,India,81
+2025-09-02,Processors,USA,121
+2025-09-02,Memory Chips,India,84
+2025-09-02,Power Supply,USA,33
+2025-09-02,Cooling Fans,India,30
+2025-09-03,Graphic Cards,Germany,227
+2025-09-03,Motherboards,India,157
+2025-09-03,Processors,USA,83
+2025-09-03,Memory Chips,Germany,52
+2025-09-03,Power Supply,USA,40
+2025-09-03,Cooling Fans,USA,105
+2025-09-04,Graphic Cards,USA,263
+2025-09-04,Motherboards,USA,67
+2025-09-04,Processors,India,58
+2025-09-04,Memory Chips,USA,23
+2025-09-04,Power Supply,Germany,82
+2025-09-04,Cooling Fans,India,111
+2025-09-05,Graphic Cards,USA,170
+2025-09-05,Motherboards,India,89
+2025-09-05,Processors,USA,100
+2025-09-05,Memory Chips,India,103
+2025-09-05,Power Supply,USA,37
+2025-09-05,Cooling Fans,USA,44
+2025-09-06,Graphic Cards,USA,203
+2025-09-06,Motherboards,USA,108
+2025-09-06,Processors,USA,166
+2025-09-06,Memory Chips,USA,34
+2025-09-06,Power Supply,Germany,90
+2025-09-06,Cooling Fans,India,79
+2025-09-07,Graphic Cards,USA,182
+2025-09-07,Motherboards,India,126
+2025-09-07,Processors,India,102
+2025-09-07,Memory Chips,USA,103
+2025-09-07,Power Supply,USA,32
+2025-09-07,Cooling Fans,India,65
+2025-09-08,Graphic Cards,USA,202
+2025-09-08,Motherboards,India,86
+2025-09-08,Processors,USA,178
+2025-09-08,Memory Chips,India,67
+2025-09-08,Power Supply,USA,0
+2025-09-08,Cooling Fans,USA,82
+2025-09-09,Graphic Cards,USA,220
+2025-09-09,Motherboards,USA,82
+2025-09-09,Processors,USA,0
+2025-09-09,Memory Chips,USA,91
+2025-09-09,Power Supply,India,101
+2025-09-09,Cooling Fans,India,28
+2025-09-10,Graphic Cards,USA,172
+2025-09-10,Motherboards,Germany,77
+2025-09-10,Processors,USA,57
+2025-09-10,Memory Chips,USA,63
+2025-09-10,Power Supply,USA,92
+2025-09-10,Cooling Fans,USA,54
+2025-09-11,Graphic Cards,USA,138
+2025-09-11,Motherboards,India,116
+2025-09-11,Processors,USA,38
+2025-09-11,Memory Chips,India,71
+2025-09-11,Power Supply,USA,59
+2025-09-11,Cooling Fans,USA,33
+2025-09-12,Graphic Cards,India,235
+2025-09-12,Motherboards,USA,110
+2025-09-12,Processors,USA,64
+2025-09-12,Memory Chips,USA,79
+2025-09-12,Power Supply,India,84
+2025-09-12,Cooling Fans,USA,35
+2025-09-13,Graphic Cards,USA,160
+2025-09-13,Motherboards,USA,78
+2025-09-13,Processors,USA,32
+2025-09-13,Memory Chips,USA,78
+2025-09-13,Power Supply,India,0
+2025-09-13,Cooling Fans,USA,62
+2025-09-14,Graphic Cards,USA,211
+2025-09-14,Motherboards,Germany,88
+2025-09-14,Processors,India,125
+2025-09-14,Memory Chips,USA,35
+2025-09-14,Power Supply,USA,76
+2025-09-14,Cooling Fans,India,116
+2025-09-15,Graphic Cards,India,211
+2025-09-15,Motherboards,India,111
+2025-09-15,Processors,USA,32
+2025-09-15,Memory Chips,India,82
+2025-09-15,Power Supply,USA,70
+2025-09-15,Cooling Fans,USA,83
+2025-09-16,Graphic Cards,India,167
+2025-09-16,Motherboards,USA,131
+2025-09-16,Processors,USA,107
+2025-09-16,Memory Chips,USA,126
+2025-09-16,Power Supply,USA,91
+2025-09-16,Cooling Fans,India,51
+2025-09-17,Graphic Cards,USA,224
+2025-09-17,Motherboards,USA,132
+2025-09-17,Processors,USA,91
+2025-09-17,Memory Chips,India,42
+2025-09-17,Power Supply,India,56
+2025-09-17,Cooling Fans,Germany,81
+2025-09-18,Graphic Cards,India,258
+2025-09-18,Motherboards,India,151
+2025-09-18,Processors,India,45
+2025-09-18,Memory Chips,USA,94
+2025-09-18,Power Supply,Germany,56
+2025-09-18,Cooling Fans,USA,28
+2025-09-19,Graphic Cards,USA,223
+2025-09-19,Motherboards,USA,85
+2025-09-19,Processors,USA,88
+2025-09-19,Memory Chips,India,73
+2025-09-19,Power Supply,USA,92
+2025-09-19,Cooling Fans,India,90
+2025-09-20,Graphic Cards,Germany,233
+2025-09-20,Motherboards,USA,47
+2025-09-20,Processors,India,115
+2025-09-20,Memory Chips,India,109
+2025-09-20,Power Supply,USA,93
+2025-09-20,Cooling Fans,Germany,81
+2025-09-21,Graphic Cards,USA,196
+2025-09-21,Motherboards,India,76
+2025-09-21,Processors,India,81
+2025-09-21,Memory Chips,India,20
+2025-09-21,Power Supply,India,172
+2025-09-21,Cooling Fans,USA,123
+2025-09-22,Graphic Cards,USA,272
+2025-09-22,Motherboards,India,104
+2025-09-22,Processors,India,55
+2025-09-22,Memory Chips,USA,99
+2025-09-22,Power Supply,USA,113
+2025-09-22,Cooling Fans,Germany,42
+2025-09-23,Graphic Cards,USA,251
+2025-09-23,Motherboards,USA,63
+2025-09-23,Processors,USA,108
+2025-09-23,Memory Chips,USA,137
+2025-09-23,Power Supply,USA,91
+2025-09-23,Cooling Fans,USA,138
+2025-09-24,Graphic Cards,India,142
+2025-09-24,Motherboards,USA,35
+2025-09-24,Processors,USA,47
+2025-09-24,Memory Chips,India,0
+2025-09-24,Power Supply,India,12
+2025-09-24,Cooling Fans,USA,138
+2025-09-25,Graphic Cards,India,246
+2025-09-25,Motherboards,USA,57
+2025-09-25,Processors,USA,168
+2025-09-25,Memory Chips,USA,68
+2025-09-25,Power Supply,USA,154
+2025-09-25,Cooling Fans,India,155
+2025-09-26,Graphic Cards,India,175
+2025-09-26,Motherboards,India,113
+2025-09-26,Processors,USA,124
+2025-09-26,Memory Chips,India,54
+2025-09-26,Power Supply,India,0
+2025-09-26,Cooling Fans,USA,112
+2025-09-27,Graphic Cards,USA,166
+2025-09-27,Motherboards,USA,74
+2025-09-27,Processors,USA,87
+2025-09-27,Memory Chips,USA,103
+2025-09-27,Power Supply,India,66
+2025-09-27,Cooling Fans,USA,90
+2025-09-28,Graphic Cards,India,247
+2025-09-28,Motherboards,USA,2
+2025-09-28,Processors,USA,23
+2025-09-28,Memory Chips,USA,33
+2025-09-28,Power Supply,USA,58
+2025-09-28,Cooling Fans,USA,110
+2025-09-29,Graphic Cards,USA,241
+2025-09-29,Motherboards,India,72
+2025-09-29,Processors,USA,72
+2025-09-29,Memory Chips,USA,135
+2025-09-29,Power Supply,USA,88
+2025-09-29,Cooling Fans,USA,64
+2025-09-30,Graphic Cards,USA,236
+2025-09-30,Motherboards,USA,111
+2025-09-30,Processors,India,95
+2025-09-30,Memory Chips,India,57
+2025-09-30,Power Supply,Germany,40
+2025-09-30,Cooling Fans,USA,44
+2025-10-01,Graphic Cards,Germany,166
+2025-10-01,Motherboards,India,43
+2025-10-01,Processors,USA,58
+2025-10-01,Memory Chips,USA,79
+2025-10-01,Power Supply,Germany,84
+2025-10-01,Cooling Fans,USA,34
+2025-10-02,Graphic Cards,USA,209
+2025-10-02,Motherboards,USA,83
+2025-10-02,Processors,Germany,75
+2025-10-02,Memory Chips,USA,55
+2025-10-02,Power Supply,India,35
+2025-10-02,Cooling Fans,USA,102
+2025-10-03,Graphic Cards,USA,203
+2025-10-03,Motherboards,USA,93
+2025-10-03,Processors,USA,62
+2025-10-03,Memory Chips,USA,58
+2025-10-03,Power Supply,India,120
+2025-10-03,Cooling Fans,USA,186
+2025-10-04,Graphic Cards,India,188
+2025-10-04,Motherboards,India,86
+2025-10-04,Processors,USA,76
+2025-10-04,Memory Chips,USA,46
+2025-10-04,Power Supply,USA,62
+2025-10-04,Cooling Fans,USA,160
+2025-10-05,Graphic Cards,India,171
+2025-10-05,Motherboards,USA,82
+2025-10-05,Processors,India,54
+2025-10-05,Memory Chips,India,77
+2025-10-05,Power Supply,USA,51
+2025-10-05,Cooling Fans,USA,59
+2025-10-06,Graphic Cards,India,142
+2025-10-06,Motherboards,India,83
+2025-10-06,Processors,India,65
+2025-10-06,Memory Chips,USA,100
+2025-10-06,Power Supply,Germany,77
+2025-10-06,Cooling Fans,Germany,50
+2025-10-07,Graphic Cards,USA,161
+2025-10-07,Motherboards,India,79
+2025-10-07,Processors,India,132
+2025-10-07,Memory Chips,Germany,57
+2025-10-07,Power Supply,USA,6
+2025-10-07,Cooling Fans,India,88
+2025-10-08,Graphic Cards,USA,247
+2025-10-08,Motherboards,USA,101
+2025-10-08,Processors,Germany,31
+2025-10-08,Memory Chips,India,84
+2025-10-08,Power Supply,India,113
+2025-10-08,Cooling Fans,Germany,62
+2025-10-09,Graphic Cards,USA,178
+2025-10-09,Motherboards,India,59
+2025-10-09,Processors,India,72
+2025-10-09,Memory Chips,India,33
+2025-10-09,Power Supply,USA,87
+2025-10-09,Cooling Fans,USA,89
+2025-10-10,Graphic Cards,Germany,210
+2025-10-10,Motherboards,India,78
+2025-10-10,Processors,India,32
+2025-10-10,Memory Chips,USA,69
+2025-10-10,Power Supply,USA,151
+2025-10-10,Cooling Fans,India,88
+2025-10-11,Graphic Cards,USA,167
+2025-10-11,Motherboards,India,103
+2025-10-11,Processors,India,152
+2025-10-11,Memory Chips,USA,94
+2025-10-11,Power Supply,USA,73
+2025-10-11,Cooling Fans,USA,132
+2025-10-12,Graphic Cards,USA,180
+2025-10-12,Motherboards,USA,119
+2025-10-12,Processors,India,57
+2025-10-12,Memory Chips,USA,63
+2025-10-12,Power Supply,USA,110
+2025-10-12,Cooling Fans,India,130
+2025-10-13,Graphic Cards,USA,195
+2025-10-13,Motherboards,Germany,129
+2025-10-13,Processors,India,94
+2025-10-13,Memory Chips,USA,48
+2025-10-13,Power Supply,India,63
+2025-10-13,Cooling Fans,India,100
+2025-10-14,Graphic Cards,USA,255
+2025-10-14,Motherboards,USA,120
+2025-10-14,Processors,USA,121
+2025-10-14,Memory Chips,Germany,27
+2025-10-14,Power Supply,India,108
+2025-10-14,Cooling Fans,India,106
+2025-10-15,Graphic Cards,USA,210
+2025-10-15,Motherboards,USA,106
+2025-10-15,Processors,USA,11
+2025-10-15,Memory Chips,India,0
+2025-10-15,Power Supply,USA,90
+2025-10-15,Cooling Fans,USA,77
+2025-10-16,Graphic Cards,USA,191
+2025-10-16,Motherboards,India,96
+2025-10-16,Processors,USA,87
+2025-10-16,Memory Chips,India,92
+2025-10-16,Power Supply,USA,115
+2025-10-16,Cooling Fans,USA,58
+2025-10-17,Graphic Cards,India,213
+2025-10-17,Motherboards,USA,54
+2025-10-17,Processors,USA,4
+2025-10-17,Memory Chips,USA,68
+2025-10-17,Power Supply,USA,122
+2025-10-17,Cooling Fans,USA,45
+2025-10-18,Graphic Cards,Germany,217
+2025-10-18,Motherboards,USA,115
+2025-10-18,Processors,India,109
+2025-10-18,Memory Chips,USA,54
+2025-10-18,Power Supply,USA,50
+2025-10-18,Cooling Fans,India,81
+2025-10-19,Graphic Cards,USA,210
+2025-10-19,Motherboards,India,105
+2025-10-19,Processors,India,106
+2025-10-19,Memory Chips,USA,187
+2025-10-19,Power Supply,USA,138
+2025-10-19,Cooling Fans,India,65
+2025-10-20,Graphic Cards,India,284
+2025-10-20,Motherboards,India,35
+2025-10-20,Processors,USA,39
+2025-10-20,Memory Chips,USA,111
+2025-10-20,Power Supply,USA,69
+2025-10-20,Cooling Fans,India,0
+2025-10-21,Graphic Cards,Germany,259
+2025-10-21,Motherboards,USA,104
+2025-10-21,Processors,India,75
+2025-10-21,Memory Chips,USA,72
+2025-10-21,Power Supply,USA,71
+2025-10-21,Cooling Fans,USA,0
+2025-10-22,Graphic Cards,India,164
+2025-10-22,Motherboards,USA,53
+2025-10-22,Processors,USA,123
+2025-10-22,Memory Chips,USA,56
+2025-10-22,Power Supply,USA,95
+2025-10-22,Cooling Fans,USA,72
+2025-10-23,Graphic Cards,USA,164
+2025-10-23,Motherboards,USA,90
+2025-10-23,Processors,USA,79
+2025-10-23,Memory Chips,India,123
+2025-10-23,Power Supply,Germany,64
+2025-10-23,Cooling Fans,USA,53
+2025-10-24,Graphic Cards,USA,233
+2025-10-24,Motherboards,India,72
+2025-10-24,Processors,India,116
+2025-10-24,Memory Chips,Germany,58
+2025-10-24,Power Supply,India,85
+2025-10-24,Cooling Fans,India,55
+2025-10-25,Graphic Cards,USA,166
+2025-10-25,Motherboards,USA,0
+2025-10-25,Processors,USA,140
+2025-10-25,Memory Chips,USA,60
+2025-10-25,Power Supply,USA,100
+2025-10-25,Cooling Fans,India,73
+2025-10-26,Graphic Cards,India,247
+2025-10-26,Motherboards,USA,10
+2025-10-26,Processors,India,88
+2025-10-26,Memory Chips,India,110
+2025-10-26,Power Supply,India,82
+2025-10-26,Cooling Fans,USA,50
+2025-10-27,Graphic Cards,USA,132
+2025-10-27,Motherboards,USA,54
+2025-10-27,Processors,USA,1
+2025-10-27,Memory Chips,India,109
+2025-10-27,Power Supply,India,98
+2025-10-27,Cooling Fans,USA,113
+2025-10-28,Graphic Cards,India,162
+2025-10-28,Motherboards,India,36
+2025-10-28,Processors,USA,101
+2025-10-28,Memory Chips,India,99
+2025-10-28,Power Supply,Germany,7
+2025-10-28,Cooling Fans,USA,52
+2025-10-29,Graphic Cards,USA,263
+2025-10-29,Motherboards,India,111
+2025-10-29,Processors,USA,69
+2025-10-29,Memory Chips,USA,31
+2025-10-29,Power Supply,India,41
+2025-10-29,Cooling Fans,USA,62
+2025-10-30,Graphic Cards,India,143
+2025-10-30,Motherboards,USA,128
+2025-10-30,Processors,USA,124
+2025-10-30,Memory Chips,India,32
+2025-10-30,Power Supply,USA,155
+2025-10-30,Cooling Fans,USA,61
+2025-10-31,Graphic Cards,USA,200
+2025-10-31,Motherboards,Germany,60
+2025-10-31,Processors,USA,36
+2025-10-31,Memory Chips,USA,65
+2025-10-31,Power Supply,India,7
+2025-10-31,Cooling Fans,Germany,65
+2025-11-01,Graphic Cards,USA,196
+2025-11-01,Motherboards,India,89
+2025-11-01,Processors,India,18
+2025-11-01,Memory Chips,USA,20
+2025-11-01,Power Supply,USA,87
+2025-11-01,Cooling Fans,USA,32
+2025-11-02,Graphic Cards,India,191
+2025-11-02,Motherboards,USA,129
+2025-11-02,Processors,USA,29
+2025-11-02,Memory Chips,Germany,45
+2025-11-02,Power Supply,USA,118
+2025-11-02,Cooling Fans,USA,7
+2025-11-03,Graphic Cards,USA,191
+2025-11-03,Motherboards,USA,173
+2025-11-03,Processors,Germany,91
+2025-11-03,Memory Chips,USA,115
+2025-11-03,Power Supply,India,62
+2025-11-03,Cooling Fans,USA,28
+2025-11-04,Graphic Cards,USA,139
+2025-11-04,Motherboards,Germany,89
+2025-11-04,Processors,Germany,90
+2025-11-04,Memory Chips,India,150
+2025-11-04,Power Supply,USA,65
+2025-11-04,Cooling Fans,India,91
+2025-11-05,Graphic Cards,USA,195
+2025-11-05,Motherboards,Germany,33
+2025-11-05,Processors,USA,90
+2025-11-05,Memory Chips,USA,121
+2025-11-05,Power Supply,USA,105
+2025-11-05,Cooling Fans,USA,50
