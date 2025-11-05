@@ -48,7 +48,7 @@ Inventory-Management-System/
 │   ├── demo_sales_dataset.csv
 │   ├── demo_stock_dataset.csv
 │   ├── demo_reviews_dataset.csv
-│   └── aic_logo.png                   # Sidebar logo
+│ 
 │
 └── .streamlit/
     └── secrets.toml                   # (optional) for storing API keys
@@ -157,8 +157,8 @@ This project is open-source and free to use for educational and personal purpose
 
 ## 👤 Author
 Developed by **Bhoomika K M**  
-B.Tech AIML | CMR University  
-📧 *You can add your email or GitHub profile link here.*
+B.E AIML | GAT  
+📧 bhoomikakm2004@gmail.com
 
 ---
 
