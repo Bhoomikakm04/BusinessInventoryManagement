@@ -5,4 +5,5 @@ altair
 matplotlib
 nltk
 prophet
-openai
+openai==0.28.0
+
