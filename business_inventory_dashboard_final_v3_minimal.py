@@ -107,7 +107,7 @@ with st.sidebar:
     if os.path.exists(LOGO_PATH):
         st.image(LOGO_PATH, width=120)
     st.title("Inventory Management System")
-    page = st.selectbox("Navigate", ["Dashboard", "Inventory", "Product Performance", "Reports", "Settings"])
+    page = st.selectbox("Navigate", ["Dashboard", "Inventory", "Product Performance", "Reports"])
     st.markdown("---")
     st.header("Data")
     sales_up = st.file_uploader("Sales CSV", type=["csv"], key="sales_u")
