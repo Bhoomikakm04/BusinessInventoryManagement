@@ -328,7 +328,7 @@ elif page == "Product Performance":
     st.title("Product Performance — Reviews & Suggestions")
     prod_list = ["All"] + sorted(sales_df['Product'].unique().tolist())
     prod = st.selectbox("Choose product", prod_list)
-    #use_free = st.checkbox("Use free LLM (rule-based)", value=True)
+    use_free = st.checkbox("Use free LLM (rule-based)", value=True)
     #use_openai = st.checkbox("Use OpenAI (optional)", value=False)
     if reviews_df is None:
         st.info("Upload reviews CSV to analyze reviews.")
