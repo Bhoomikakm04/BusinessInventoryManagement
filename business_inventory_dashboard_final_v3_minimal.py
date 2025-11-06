@@ -329,7 +329,7 @@ elif page == "Product Performance":
     prod_list = ["All"] + sorted(sales_df['Product'].unique().tolist())
     prod = st.selectbox("Choose product", prod_list)
     use_free = st.checkbox("Use free LLM (rule-based)", value=True)
-    use_openai = st.checkbox("Use OpenAI (optional)", value=False)
+    #use_openai = st.checkbox("Use OpenAI (optional)", value=False)
     if reviews_df is None:
         st.info("Upload reviews CSV to analyze reviews.")
     else:
@@ -418,23 +418,7 @@ elif page == "Reports":
         except Exception as e:
             st.warning(f"Sentiment analysis unavailable: {e}")
 
-elif page == "Settings":
-    st.title("Settings & Integrations")
-    st.markdown("Remove profile option as requested. Keep API keys (session only).")
-    st.markdown("---")
-    st.subheader("API Keys (session only)")
-    st.write("Add API keys for providers (for testing). For production, use Streamlit Secrets.")
-    openai_key = st.text_input("OpenAI API key (sk-...)", type="password")
-    hf_key = st.text_input("Hugging Face API key (hf-...)", type="password")
-    gemini_key = st.text_input("Gemini API key", type="password")
-    if st.button("Save keys to session"):
-        if openai_key: st.session_state['session_openai_key'] = openai_key
-        if hf_key: st.session_state['session_hf_key'] = hf_key
-        if gemini_key: st.session_state['session_gemini_key'] = gemini_key
-        st.success("Keys saved to this session.")
 
-    st.markdown("---")
-    st.write("Free LLM (rule-based) is always available. Use API keys for advanced suggestions.")
 
 else:
     st.write("Unknown page selected.")
